@@ -1,6 +1,6 @@
 /* 
  * tsh - A tiny shell program with job control
- * 
+ * 201602002 박은식
  * 201602002 박은식
  */
 #include <stdio.h>
